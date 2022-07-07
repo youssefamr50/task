@@ -1,6 +1,6 @@
 # Final Training
 
-application that display data from application
+application that display data from API
  
 ## Used programming language
 
